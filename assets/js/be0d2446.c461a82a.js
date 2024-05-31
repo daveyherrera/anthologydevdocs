@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanthology_dev_docs=self.webpackChunkanthology_dev_docs||[]).push([[6423],{119:s=>{s.exports=JSON.parse('{"label":"bestpractices","permalink":"/anthologydevdocs/blog/tags/bestpractices","allTagsPath":"/anthologydevdocs/blog/tags","count":2}')}}]);
